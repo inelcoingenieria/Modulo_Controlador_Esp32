@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=U_Fuente Member=D?
+Added Component: Designator=D7(DIONM5327X240N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.in/ProductDetail/Diotec-Semiconductor/M7L?qs=Wj%2FVkw3K%252BMDMylK9y%2FQg4g%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "637-M7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/M7L?qs=Wj%2FVkw3K%252BMDMylK9y%2FQg4g%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=D7-1
+Added Pin To Net: NetName=+12VB Pin=D7-2
+Added Member To Class: ClassName=U_Fuente Member=Component D7 M7L
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=U_RELAY Member=Component R? 1K

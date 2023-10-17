@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=D7 Old Footprint=SODFL3618X143N New Footprint=DIOM5027X262N
+Change Component Comment : Designator=D7 Old Comment=RS1MFA New Comment=M7A
+Change component parameters: Designator = "D7" ("D7"); Footprint = "SODFL3618X143N"; UniqueID = "\DQMDNGUM\WPPZRFEZ" ("\DQMDNGUM\WPPZRFEZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.62mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M7A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=U_RELAY Member=Component R? 1K

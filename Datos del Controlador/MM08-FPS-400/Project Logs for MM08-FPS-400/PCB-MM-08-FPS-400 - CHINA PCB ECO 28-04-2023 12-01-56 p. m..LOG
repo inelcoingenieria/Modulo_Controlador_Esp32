@@ -1,0 +1,95 @@
+Removed Member From Class: ClassName=MM-08 FPS-400 Member=J?
+Change Component Designator: OldDesignator=C1 NewDesignator=C10
+Change Component Designator: OldDesignator=C2 NewDesignator=C11
+Change Component Designator: OldDesignator=C3 NewDesignator=C12
+Change Component Designator: OldDesignator=C4 NewDesignator=C13
+Change Component Designator: OldDesignator=C5 NewDesignator=C1
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=C7 NewDesignator=C3
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C4
+Change Component Designator: OldDesignator=C12 NewDesignator=C5
+Change Component Designator: OldDesignator=C13 NewDesignator=C6
+Change Component Designator: OldDesignator=D7 NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=IC3_RS485-0 NewDesignator=IC4_RS485-0
+Change Component Designator: OldDesignator=IC3_RS485-1 NewDesignator=IC4_RS485-1
+Change Component Designator: OldDesignator=IC6 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC7 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED4
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R2 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R11
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R12
+Change Component Designator: OldDesignator=R8 NewDesignator=R13
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R13_RS485-0 NewDesignator=R1_RS485-0
+Change Component Designator: OldDesignator=R13_RS485-1 NewDesignator=R1_RS485-1
+Change Component Designator: OldDesignator=R14_RS485-0 NewDesignator=R2_RS485-0
+Change Component Designator: OldDesignator=R14_RS485-1 NewDesignator=R2_RS485-1
+Change Component Designator: OldDesignator=R15_RS485-0 NewDesignator=R3_RS485-0
+Change Component Designator: OldDesignator=R15_RS485-1 NewDesignator=R3_RS485-1
+Change Component Designator: OldDesignator=R16_RS485-0 NewDesignator=R4_RS485-0
+Change Component Designator: OldDesignator=R16_RS485-1 NewDesignator=R4_RS485-1
+Change Component Designator: OldDesignator=R17_RS485-0 NewDesignator=R5_RS485-0
+Change Component Designator: OldDesignator=R17_RS485-1 NewDesignator=R5_RS485-1
+Change Component Designator: OldDesignator=R18_RS485-0 NewDesignator=R6_RS485-0
+Change Component Designator: OldDesignator=R18_RS485-1 NewDesignator=R6_RS485-1
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas1 NewDesignator=R14_U_EntradasAnalogicas1
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas1 NewDesignator=R15_U_EntradasAnalogicas1
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas2 NewDesignator=R14_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas2 NewDesignator=R15_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas3 NewDesignator=R14_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas3 NewDesignator=R15_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas4 NewDesignator=R14_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas4 NewDesignator=R15_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas5 NewDesignator=R14_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas5 NewDesignator=R15_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas6 NewDesignator=R14_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas6 NewDesignator=R15_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas7 NewDesignator=R14_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas7 NewDesignator=R15_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas8 NewDesignator=R14_U_EntradasAnalogicas8
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas8 NewDesignator=R15_U_EntradasAnalogicas8
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas1 NewDesignator=Z1_U_EntradasAnalogicas1
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas2 NewDesignator=Z1_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas3 NewDesignator=Z1_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas4 NewDesignator=Z1_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas5 NewDesignator=Z1_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas6 NewDesignator=Z1_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas7 NewDesignator=Z1_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas8 NewDesignator=Z1_U_EntradasAnalogicas8
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED5_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED7_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component J1 1729021
+Added Member To Class: ClassName=U_Conectores Member=Component J2 1729050
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R14_U_EntradasAnalogicas1 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R14_U_EntradasAnalogicas2 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R14_U_EntradasAnalogicas5 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R14_U_EntradasAnalogicas6 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R14_U_EntradasAnalogicas7 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R14_U_EntradasAnalogicas8 (R14) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R15_U_EntradasAnalogicas3 (R15) 39k
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R15_U_EntradasAnalogicas4 (R15) 39k
+Added Member To Class: ClassName=U_RELAY Member=Component R17 10K

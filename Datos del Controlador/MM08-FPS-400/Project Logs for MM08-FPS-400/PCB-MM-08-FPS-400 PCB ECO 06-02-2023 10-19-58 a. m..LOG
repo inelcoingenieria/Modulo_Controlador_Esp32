@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R19_U_EntradaDigital2 Old Footprint=C0805 New Footprint=RESC3216X75N
+Added Pin To Net: NetName=CHIP-EN Pin=R5-1

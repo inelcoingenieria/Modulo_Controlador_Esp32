@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=K1_RELAY-2-1
+Removed Pin From Net: NetName=GND Pin=K1_RELAY-2-2
+Removed Pin From Net: NetName=GND Pin=K1_RELAY-2-4
+Change Component Designator: OldDesignator=K1_RELAY-2 NewDesignator=K?
+Added Component: Designator=D?(DIOM5027X262N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HY Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(APHCM2012SURCKF01)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "APHCM2012SURCK-F01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/aphcm2012surck-f01/kingbright?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/APHCM2012SURCK-F01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APHCM2012SURCK-F01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "604-APHCM2012SURCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Kingbright/APHCM2012SURCK-F01?qs=qqKal61G0Kww4v8qUa%2Fyzg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(BC81740215)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/bc817-40215/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/BC817_SER.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BC817-40,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-BC817-40-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/BC817-40215?qs=me8TqzrmIYU%252B245p8hOLaQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESC3216X75N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR1206-F/-2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR1206-F/2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-F-2R00ELF?qs=W%2FMpXkg%252BdQ47Z%2FeZv1nDSg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X75N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR1206-F/-2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR1206-F/2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-F-2R00ELF?qs=W%2FMpXkg%252BdQ47Z%2FeZv1nDSg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X75N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR1206-F/-2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CR1206-F/2R00ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-F-2R00ELF?qs=W%2FMpXkg%252BdQ47Z%2FeZv1nDSg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=D?-1
+Added Pin To Net: NetName=+5V Pin=K?-5
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=GND Pin=LED9-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=NetLED9_1 Pin=R43-1
+Added Pin To Net: NetName=+3V3 Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=K?-2
+Added Pin To Net: NetName=NetD?_2 Pin=Q?-3
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Net: Name=NetK?_1
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Net: Name=NetK?_3
+Added Pin To Net: NetName=NetK?_4 Pin=K?-4
+Added Net: Name=NetK?_4
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Net: Name=NetR?_1
+Added Class: Name=U_RELAY
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_Fuente Member=Component LED9 APHCM2012SURCK-F01
+Added Member To Class: ClassName=U_Fuente Member=Component R43 5K1
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K

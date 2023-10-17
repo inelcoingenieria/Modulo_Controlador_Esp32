@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3V3 Pin=P1-6
+Added Pin To Net: NetName=+5V Pin=P1-6
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=U_RELAY Member=Component R? 1K

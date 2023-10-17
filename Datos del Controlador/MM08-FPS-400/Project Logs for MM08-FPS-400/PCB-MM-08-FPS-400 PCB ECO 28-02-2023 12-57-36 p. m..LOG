@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=AI_5 Pin=IC8-4
+Removed Pin From Net: NetName=AI_6 Pin=IC8-5
+Removed Pin From Net: NetName=AI_7 Pin=IC8-6
+Removed Pin From Net: NetName=AI_8 Pin=IC8-7
+Removed Pin From Net: NetName=AI_1 Pin=IC8-8
+Removed Pin From Net: NetName=AI_2 Pin=IC8-9
+Removed Pin From Net: NetName=AI_3 Pin=IC8-12
+Removed Pin From Net: NetName=AI_4 Pin=IC8-15
+Added Pin To Net: NetName=AI_1 Pin=IC8-4
+Added Pin To Net: NetName=AI_2 Pin=IC8-5
+Added Pin To Net: NetName=AI_3 Pin=IC8-6
+Added Pin To Net: NetName=AI_4 Pin=IC8-7
+Added Pin To Net: NetName=AI_5 Pin=IC8-8
+Added Pin To Net: NetName=AI_6 Pin=IC8-9
+Added Pin To Net: NetName=AI_7 Pin=IC8-12
+Added Pin To Net: NetName=AI_8 Pin=IC8-15
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=U_RELAY Member=Component R? 1K

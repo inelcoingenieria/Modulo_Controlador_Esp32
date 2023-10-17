@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=A_0 Pin=j2-1
+Removed Pin From Net: NetName=B_0 Pin=j2-2
+Removed Pin From Net: NetName=A_1 Pin=j2-3
+Removed Pin From Net: NetName=B_1 Pin=j2-4
+Removed Pin From Net: NetName=+12VB Pin=j2-7
+Removed Pin From Net: NetName=GND Pin=j2-8
+Removed Member From Class: ClassName=U_Conectores Member=j2
+Added Component: Designator=J?(1729050)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729050/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1729050/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729050?qs=cq3Rj917t3laRrRfXpB0kg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A_0 Pin=J?-1
+Added Pin To Net: NetName=B_0 Pin=J?-2
+Added Pin To Net: NetName=A_1 Pin=J?-3
+Added Pin To Net: NetName=B_1 Pin=J?-4
+Added Pin To Net: NetName=+12VB Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729050
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K

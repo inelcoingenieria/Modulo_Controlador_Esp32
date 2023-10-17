@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\maria\Documents\Inelco\Central Incendio\CPU FPS-400\MM-08 FPS-400\MM08-FPS-400\PCB-MM-08-FPS-400 - CHINA.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

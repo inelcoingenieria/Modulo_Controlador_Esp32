@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=C3_1 NewDesignator=C3
+Change Component Designator: OldDesignator=C4_1 NewDesignator=C4
+Change Component Designator: OldDesignator=LED1_1 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED3_1 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED5_1 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED7_1 NewDesignator=LED7
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R2
+Change Component Designator: OldDesignator=R4_1 NewDesignator=R4
+Change Component Designator: OldDesignator=R6_1 NewDesignator=R6
+Change Component Designator: OldDesignator=R7_1 NewDesignator=R7
+Change Component Designator: OldDesignator=R8_1 NewDesignator=R8
+Change Component Designator: OldDesignator=R9_1 NewDesignator=R9
+Change Component Designator: OldDesignator=S2_1 NewDesignator=S2
+Change Component Designator: OldDesignator=S3_1 NewDesignator=S3
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=PULS2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=PULS3 Pin=C4-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=GND Pin=LED5-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=LED1 Pin=R2-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-2
+Added Pin To Net: NetName=LED2 Pin=R4-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R4-2
+Added Pin To Net: NetName=LED3 Pin=R6-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R6-2
+Added Pin To Net: NetName=PULS2 Pin=R7-1
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=PULS3 Pin=R8-1
+Added Pin To Net: NetName=+3V3 Pin=R8-2
+Added Pin To Net: NetName=LED4 Pin=R9-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R9-2
+Added Pin To Net: NetName=PULS2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=PULS3 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Member To Class: ClassName=U_Pulsadores Member=Component C3 1uF
+Added Member To Class: ClassName=U_Pulsadores Member=Component C4 1uF
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_Leds Member=Component LED1 APHCM2012SURCK-F01
+Added Member To Class: ClassName=U_Leds Member=Component LED3 APHCM2012SURCK-F01
+Added Member To Class: ClassName=U_Leds Member=Component LED5 APHCM2012SURCK-F01
+Added Member To Class: ClassName=U_Leds Member=Component LED7 APHCM2012SURCK-F01
+Added Member To Class: ClassName=U_Leds Member=Component R2 1K
+Added Member To Class: ClassName=U_Leds Member=Component R4 1K
+Added Member To Class: ClassName=U_Leds Member=Component R6 1K
+Added Member To Class: ClassName=U_Pulsadores Member=Component R7 10K
+Added Member To Class: ClassName=U_Pulsadores Member=Component R8 10K
+Added Member To Class: ClassName=U_Leds Member=Component R9 1K
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=U_Pulsadores Member=Component S2 1825965-1
+Added Member To Class: ClassName=U_Pulsadores Member=Component S3 1825965-1
+Added Room: Name=MM-08 FPS-400
+Added Room: Name=U_Conectores
+Added Room: Name=U_Fuente
+Added Room: Name=U_Leds
+Added Room: Name=U_Pulsadores

@@ -1,0 +1,94 @@
+Altium Designer Pick and Place Locations
+C:\Users\maria\Documents\Inelco\Central Incendio\CPU FPS-400\MM-08 FPS-400\MM08-FPS-400\Project Outputs for MM08-FPS-400\Pick Place for PCB-MM-08-FPS-400 - CHINA.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/04/23
+Time:       11:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator               Comment             Layer    Footprint                 Center-X(mm) Center-Y(mm) Rotation Description                            
+D7                       M7L                 TopLayer DIONM5327X240N            30.7340      71.1200      180      Diode                                  
+J?                       1729021             TopLayer 1729021                   44.7390      77.9780      180      Connector                              
+IC8                      ESP32-S3-WROOM-1-N4 TopLayer ESP32S3WROOM1N4           16.3730      37.3510      90       "Integrated Circuit"                   
+P?                       "Header 16"         TopLayer HDR1X16                   55.1180      36.8300      270      "Header, 16-Pin"                       
+R?                       1K                  TopLayer RESC3216X75N              30.9880      35.8140      0        Resistor                               
+R?                       10K                 TopLayer RESC3216X75N              36.0680      35.8140      180      Resistor                               
+Q?                       BC817-40            TopLayer BC81740215                36.0680      38.6080      0        "Transistor BJT NPN"                   
+D?                       M7A                 TopLayer DIOM5027X262N             36.8300      42.9260      0        Diode                                  
+K?                       JS1-12V-F           TopLayer JS1-12V-F_1               45.3700      56.0190      90       "Relay or Contactor"                   
+LED1                     APHCM2012SURCK-F01  TopLayer APHCM2012SURCKF01         43.2490      44.1960      180      LED                                    
+LED3                     APHCM2012SURCK-F01  TopLayer APHCM2012SURCKF01         43.2490      41.4020      180      LED                                    
+LED5                     APHCM2012SURCK-F01  TopLayer APHCM2012SURCKF01         43.2490      38.6080      180      LED                                    
+R2                       1K                  TopLayer RESC3216X75N              49.1600      44.1960      180      Resistor                               
+R6                       1K                  TopLayer RESC3216X75N              49.1490      38.6080      180      Resistor                               
+R4                       1K                  TopLayer RESC3216X75N              49.1600      41.4020      180      Resistor                               
+LED7                     APHCM2012SURCK-F01  TopLayer APHCM2012SURCKF01         43.2490      35.8140      180      LED                                    
+R9                       1K                  TopLayer RESC3216X75N              49.1600      35.8140      180      Resistor                               
+S2                       1825965-1           TopLayer TAC-SWITCH_2CONT._3,5X6MM 43.3240      32.4770      0        Switch                                 
+S3                       1825965-1           TopLayer TAC-SWITCH_2CONT._3,5X6MM 43.3240      28.0320      0        Switch                                 
+C4                       1uF                 TopLayer CAPC3216X100N             36.0680      29.3020      180      "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C3                       1uF                 TopLayer CAPC3216X100N             36.0680      32.4770      180      "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+R8                       10K                 TopLayer RESC3216X75N              30.9880      29.3020      180      Resistor                               
+R7                       10K                 TopLayer RESC3216X75N              30.9880      32.4770      180      Resistor                               
+Z?_U_EntradasAnalogicas1 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               5.5880       9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas2 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               10.6680      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas3 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               15.7480      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas4 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               20.8280      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas5 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               30.9880      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas6 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               36.0680      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas7 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               41.1480      9.6350       0        "Zener Diode"                          
+Z?_U_EntradasAnalogicas8 MMSZ5226B-7-F       TopLayer MMSZ5226B7F               46.2520      9.6350       0        "Zener Diode"                          
+R?_U_EntradasAnalogicas1 39k                 TopLayer RESC3216X75N              5.5640       19.0000      0        Resistor                               
+R?_U_EntradasAnalogicas1 2k7                 TopLayer RESC3216X75N              5.5880       12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas2 2k7                 TopLayer RESC3216X75N              10.6680      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas2 39k                 TopLayer RESC3216X75N              10.7950      19.0000      0        Resistor                               
+R?_U_EntradasAnalogicas3 2k7                 TopLayer RESC3216X75N              15.7480      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas3 39k                 TopLayer RESC3216X75N              15.8750      15.6350      0        Resistor                               
+R?_U_EntradasAnalogicas4 39k                 TopLayer RESC3216X75N              20.9550      15.6350      0        Resistor                               
+R?_U_EntradasAnalogicas4 2k7                 TopLayer RESC3216X75N              20.8280      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas5 39k                 TopLayer RESC3216X75N              31.1150      15.6350      0        Resistor                               
+R?_U_EntradasAnalogicas5 2k7                 TopLayer RESC3216X75N              30.9880      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas6 39k                 TopLayer RESC3216X75N              36.1950      15.6350      0        Resistor                               
+R?_U_EntradasAnalogicas6 2k7                 TopLayer RESC3216X75N              36.0680      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas7 2k7                 TopLayer RESC3216X75N              41.1480      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas7 39k                 TopLayer RESC3216X75N              41.2750      15.6350      0        Resistor                               
+R?_U_EntradasAnalogicas8 2k7                 TopLayer RESC3216X75N              46.2520      12.6350      0        Resistor                               
+R?_U_EntradasAnalogicas8 39k                 TopLayer RESC3216X75N              46.3790      15.6350      0        Resistor                               
+J?                       1729050             TopLayer 1729050                   16.4370      77.9780      0        Connector                              
+C1                       0.1uF               TopLayer CAPC3216X100N             3.9370       69.6200      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C2                       1uF                 TopLayer CAPC3216X100N             5.5640       22.0000      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+R5                       10K                 TopLayer RESC3216X75N              5.5640       24.5000      180      Resistor                               
+S1                       1825965-1           TopLayer TAC-SWITCH_2CONT._3,5X6MM 1.7780       58.3450      270      Switch                                 
+IC3_RS485-1              SN75176AD           TopLayer SOIC127P600X175-8N        15.6210      60.7510      90       "Integrated Circuit"                   
+IC3_RS485-0              SN75176AD           TopLayer SOIC127P600X175-8N        9.7790       60.7300      90       "Integrated Circuit"                   
+P3                       RTC                 TopLayer HDR1X4                    52.0700      21.5900      270      "Header, 4-Pin"                        
+R16_RS485-1              1K                  TopLayer RESC3216X75N              15.2640      55.2900      0        Resistor                               
+R18_RS485-1              10K                 TopLayer RESC3216X75N              15.2640      49.9560      180      Resistor                               
+R15_RS485-1              120                 TopLayer RESC3216X75N              15.3670      69.6410      180      Resistor                               
+R14_RS485-1              10K                 TopLayer RESC3216X75N              15.2770      52.6230      0        Resistor                               
+R13_RS485-1              20K                 TopLayer RESC3216X75N              15.3670      66.7200      0        Resistor                               
+R17_RS485-1              20K                 TopLayer RESC3216X75N              15.3910      72.4350      180      Resistor                               
+R16_RS485-0              1K                  TopLayer RESC3216X75N              9.4220       55.2690      0        Resistor                               
+R18_RS485-0              10K                 TopLayer RESC3216X75N              9.4220       49.9350      180      Resistor                               
+R14_RS485-0              10K                 TopLayer RESC3216X75N              9.4350       52.6020      0        Resistor                               
+R13_RS485-0              20K                 TopLayer RESC3216X75N              9.5250       66.6990      0        Resistor                               
+R17_RS485-0              20K                 TopLayer RESC3216X75N              9.5490       72.4140      180      Resistor                               
+R15_RS485-0              120                 TopLayer RESC3216X75N              9.5250       69.6200      180      Resistor                               
+IC6                      LD1117DT33CTR       TopLayer L7805CDTTR                22.8600      52.5010      0        "TO-252-3/DPACK 0.95A 3.3V"            
+P2                       I2C                 TopLayer HDR1X4                    21.8440      24.7650      180      "Header, 4-Pin"                        
+C8                       100uFX16V           TopLayer CAPAE660X550N             32.0040      50.4190      0        "100UFX16V 20%. 6.3x5.4 ELE.RAD.SMD"   
+C10                      0.1uF/16V(10%)      TopLayer CAPC3216X100N             30.9880      41.4020      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C6                       10uF/16V(10%)       TopLayer CAPC3216X100N             37.1030      72.1505      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C7                       0.1uF/16V(10%)      TopLayer CAPC3216X100N             37.1030      69.8645      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C11                      100uFX16V           TopLayer CAPAE660X550N             32.0040      57.7850      0        "100UFX16V 20%. 6.3x5.4 ELE.RAD.SMD"   
+C9                       10uF/16V(10%)       TopLayer CAPC3216X100N             30.9880      44.1960      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C5                       100uFX16V           TopLayer CAPAE660X550N             32.0040      65.2780      0        "100UFX16V 20%. 6.3x5.4 ELE.RAD.SMD"   
+IC7                      L7805CDT-TR         TopLayer L7805CDTTR                22.8600      67.1060      0        "Integrated Circuit"                   
+C12                      10uF/16V(10%)       TopLayer CAPC3216X100N             20.8160      60.9330      180      "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+C13                      0.1uF/16V(10%)      TopLayer CAPC3216X100N             25.2730      60.9600      0        "100NFX50V X7R 10% CER.MULT. SMD 1206" 
+P1                       "Header 6"          TopLayer HDR1X6                    5.0800       55.2450      270      "Header, 6-Pin"                        
+J?                       1729209             TopLayer 1729209                   26.8790      4.0040       180      Connector                              

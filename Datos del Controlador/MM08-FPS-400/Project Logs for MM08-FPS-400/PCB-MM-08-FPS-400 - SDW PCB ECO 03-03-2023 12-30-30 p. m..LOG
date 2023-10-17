@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=TX_1 Pin=P?-8
+Added Pin To Net: NetName=RX_1 Pin=P?-9
+Added Pin To Net: NetName=RST_2 Pin=IC8-32
+Added Pin To Net: NetName=RST_2 Pin=P?-7
+Added Net: Name=RST_2
+Added Pin To Net: NetName=RX_2 Pin=IC8-33
+Added Net: Name=RX_2
+Added Pin To Net: NetName=TX_2 Pin=IC8-34
+Added Net: Name=TX_2
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=U_RELAY Member=Component R? 1K

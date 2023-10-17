@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [MM08-FPS-400.PrjPcb]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Copper_Signal_Top.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Copper_Signal_Bot.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Pads_Bot.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Pads_Top.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Legend_Bot.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Soldermask_Bot.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Paste_Bot.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Legend_Top.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Paste_Top.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Soldermask_Top.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Keep-out.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Mechanical_13.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Mechanical_1.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Mechanical_15.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Profile.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_NPTH_Drill.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_PTH_Drill.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Drawing_1.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA_Drillmap_1.gbr]
+   Generated File[PCB-MM-08-FPS-400 - CHINA.RUL]
+   Generated File[PCB-MM-08-FPS-400 - CHINA.EXTREP]
+   Generated File[PCB-MM-08-FPS-400 - CHINA.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 12:56:12 p. m. On 08/05/2023

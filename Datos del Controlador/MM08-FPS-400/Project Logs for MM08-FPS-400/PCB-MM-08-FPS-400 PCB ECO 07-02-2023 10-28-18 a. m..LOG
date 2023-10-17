@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Sw0 Pin=IC8-18
+Removed Pin From Net: NetName=Sw1 Pin=IC8-19
+Removed Pin From Net: NetName=Sw2 Pin=IC8-20
+Removed Pin From Net: NetName=Sw3 Pin=IC8-21
+Added Pin To Net: NetName=Sw3 Pin=IC8-18
+Added Pin To Net: NetName=Sw2 Pin=IC8-19
+Added Pin To Net: NetName=Sw1 Pin=IC8-20
+Added Pin To Net: NetName=Sw0 Pin=IC8-21
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K

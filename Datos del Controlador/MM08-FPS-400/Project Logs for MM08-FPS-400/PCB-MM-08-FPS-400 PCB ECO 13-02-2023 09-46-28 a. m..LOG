@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas1 NewDesignator=R?_U_EntradasAnalogicas8
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas1 NewDesignator=R?_U_EntradasAnalogicas8
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas2 NewDesignator=R?_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas2 NewDesignator=R?_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas3 NewDesignator=R?_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas3 NewDesignator=R?_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas4 NewDesignator=R?_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas4 NewDesignator=R?_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas5 NewDesignator=R?_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas5 NewDesignator=R?_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas6 NewDesignator=R?_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas6 NewDesignator=R?_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas7 NewDesignator=R?_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas7 NewDesignator=R?_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas8 NewDesignator=R?_U_EntradasAnalogicas1
+Change Component Designator: OldDesignator=R?_U_EntradasAnalogicas8 NewDesignator=R?_U_EntradasAnalogicas1
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas1 NewDesignator=Z?_U_EntradasAnalogicas8
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas2 NewDesignator=Z?_U_EntradasAnalogicas7
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas3 NewDesignator=Z?_U_EntradasAnalogicas6
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas4 NewDesignator=Z?_U_EntradasAnalogicas5
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas5 NewDesignator=Z?_U_EntradasAnalogicas4
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas6 NewDesignator=Z?_U_EntradasAnalogicas3
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas7 NewDesignator=Z?_U_EntradasAnalogicas2
+Change Component Designator: OldDesignator=Z?_U_EntradasAnalogicas8 NewDesignator=Z?_U_EntradasAnalogicas1
+Added Member To Class: ClassName=U_Conectores Member=Component J? 1729209
+Added Member To Class: ClassName=U_EntradasAnalogicas1 Member=Component R?_U_EntradasAnalogicas1 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas2 Member=Component R?_U_EntradasAnalogicas2 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas3 Member=Component R?_U_EntradasAnalogicas3 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas4 Member=Component R?_U_EntradasAnalogicas4 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas5 Member=Component R?_U_EntradasAnalogicas5 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas6 Member=Component R?_U_EntradasAnalogicas6 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas7 Member=Component R?_U_EntradasAnalogicas7 (R?) 2k7
+Added Member To Class: ClassName=U_EntradasAnalogicas8 Member=Component R?_U_EntradasAnalogicas8 (R?) 2k7
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Member To Class: ClassName=MM-08 FPS-400 Member=Component R? 1K
+Added Room: Name=U_EntradasAnalogicas1
+Added Room: Name=U_EntradasAnalogicas2
+Added Room: Name=U_EntradasAnalogicas3
+Added Room: Name=U_EntradasAnalogicas4
+Added Room: Name=U_EntradasAnalogicas5
+Added Room: Name=U_EntradasAnalogicas6
+Added Room: Name=U_EntradasAnalogicas7
+Added Room: Name=U_EntradasAnalogicas8
